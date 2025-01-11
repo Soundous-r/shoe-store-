@@ -1,3 +1,5 @@
+Fournissez une brève description des choix de conception effectués au cours du processus de développement.
+
 Simple and Clear Navigation: A clean menu with direct links to key sections (Home, About, Shop, Contact), optimized for mobile navigation .
 
 Clean and Modern Design: A neutral color palette and use of white space for a sleek, professional layout that highlights the products.
